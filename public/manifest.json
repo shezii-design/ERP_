@@ -2,7 +2,7 @@
   "name": "NexusERP Enterprise",
   "short_name": "NexusERP",
   "description": "Enterprise Resource Planning PWA with Supabase integration",
-  "start_url": "/",
+  "start_url": "/ERP_/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#4f46e5",
