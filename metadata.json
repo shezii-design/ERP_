@@ -1,0 +1,6 @@
+{
+  "name": "NexusERP - Enterprise Resource Planning System",
+  "description": "A responsive React PWA ERP system integrated with Supabase featuring Inventory, Orders, HR, Finance, CRM, and Analytics with secure role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
